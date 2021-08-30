@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BluetoothChat</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="turn_on">Turn On</string>
+    <string name="device">device :</string>
+    <string name="status">Status :</string>
+    <string name="send">Send</string>
+    <string name="please_place_your_fingertip_on_scanner_to_verify_your_identity">Please place your fingertip on scanner to verify your identity</string>
+    <string name="one_touch_sign_in">One-Touch Sign In</string>
+    <string name="fingerprint_sign_in_in_makes_your_app_much_faster_should_at_leas_one_fingerprint_registered_in_device">Fingerprint sign in in makes your app much faster. should at leas one fingerprint registered in device.</string>
+    <string name="todo">TODO</string>
+    <string name="current_message">Hi, Iam use this applications</string>
+</resources>
